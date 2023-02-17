@@ -1,0 +1,6 @@
+public
+int 
+graphics 
+string
+bitmap
+float 
